@@ -358,7 +358,6 @@ def main():
 
     token = os.environ.get(
         "BOT_TOKEN",
-        "8657846432:AAEoc9x4DT3zRd2WHtcXWkG2VI-eFRQa20o"
     )
 
     if token == "YOUR_TELEGRAM_BOT_TOKEN":
